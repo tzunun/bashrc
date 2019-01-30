@@ -22,3 +22,6 @@ alias vim='nvim'
 set -o vi
 # exit insert mode by typing 'jk' or "remap" esc to 'jk'
 bind '"jk":vi-movement-mode'
+
+# Set NeoVim as the default editor for PostGreSQL
+export PSQL_EDITOR="/usr/bin/nvim"

@@ -20,7 +20,7 @@ alias vim='nvim'
 
 # Conda environmnents alias
 alias iono='conda activate iono'
-alias py37='conda activate py37'
+alias py38='conda activate py38'
 alias intel='conda activate intel'
 
 # Kitty colorscheme
